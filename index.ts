@@ -1,1 +1,6 @@
-<!-- TODO -->
+/*
+ * @description: 
+ */
+interface User {
+    name: string
+}
